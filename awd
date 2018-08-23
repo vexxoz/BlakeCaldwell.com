@@ -1,0 +1,68 @@
+<?php
+
+
+?>
+<html>
+<head>
+    <link href='http://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <link rel="stylesheet" href="index_style.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body>
+    
+    <div id="top_background" class="module parallax parallax-1">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col-lg-offset-3 name_outer">
+            <h1 class="name">Blake Caldwell</h1>
+            <p id="slogan">Programmer and Lover of HTML, Css, Javascript, PHP, Bootstrap, and MySQL</p>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="row">
+            <div id="about_me" class="col-lg-6 col-md-12 col-sm-12">
+                <h2>About Blake</h2>
+                <p id="info_text">He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div id="about_me" class="col-lg-6 col-md-12 col-sm-12">
+                <h2>About Blake</h2>
+                <p id="info_text">He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.</p>
+            </div>
+        </div>    
+    </div>
+    <div class="row">
+        <div id="middle_background">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col-lg-offset-3 name_outer">
+
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div id="about_me" class="col-lg-6 col-md-12 col-sm-12">
+                <h2>About Blake</h2>
+                <p id="info_text">He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div id="about_me" class="col-lg-6 col-md-12 col-sm-12">
+                <h2>About Blake</h2>
+                <p id="info_text">He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smartHe is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart. He is so cool and hard working and super smart.</p>
+            </div>
+        </div>    
+    </div>    
+    <div class="row">
+        <div id="middle_background">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col-lg-offset-3 name_outer">
+                <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+            </div>
+        </div>
+    </div>    
+</body>
+    <script src="test.js"></script>
+</html>

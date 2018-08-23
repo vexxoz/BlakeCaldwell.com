@@ -1,0 +1,124 @@
+body{
+    background-color: #0D0E10;
+}
+.wrapper{
+    position: relative;
+    top: 100px;
+    color: #4F5050;
+}
+.top{
+    text-align: center;  
+    font-family: 'Rock Salt', cursive;
+}
+p{
+   font-family: 'Cinzel', serif;
+    font-size: 25px;
+}
+.main{
+    height: 500px;
+    
+}
+.bottom{
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+.middle{
+    position: relative;
+    top: 50px;
+}
+.item{
+    position: relative;
+    height: 250px;
+    font-family: 'Special Elite', cursive;
+}
+.inner{
+    width: 100%;
+    height: 95%;
+    text-align: center;
+    background-color: rgba(46, 46, 46, 0.8);    
+}
+.inner:hover{
+    text-align: center;
+    background-color: rgba(0, 204, 255, 0.5);
+}
+.text{
+    position: relative;
+    top: 98px;
+}
+img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.icons{
+    position: relative;
+    margin-top: 150px;
+    text-align: center;
+}
+img.logo{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
+a{
+    color: inherit;
+}
+a:hover{
+    text-decoration: none;
+    color: inherit;
+}
+.size{
+    font-size: 50px;
+    cursor: pointer;
+}
+.position{  
+    margin-left: auto;
+    margin-right: auto;
+}
+.left_icon{
+    margin-right: 20px;
+}
+.left_icon:hover{
+    margin-right: 20px;
+    color: rgba(0, 204, 255, 0.5);
+}
+.right_icon:hover{
+    color: rgba(0, 204, 255, 0.5);
+}
+.email{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    margin-bottom: 10px;
+    display: none;
+
+}
+.email_item{
+    width: 400px;
+    position: relative;
+    margin-top: 10px;
+    background: none;
+    border: 3px solid rgba(46, 46, 46, 0.8);
+}
+.top_item{
+    height: 50px;
+}
+textarea{
+    height: 200px;
+}
+.email_button{
+    height: 45px;
+}
+
+@media (max-width: 768px) {
+    .email_item{
+        width: 100%;
+    }
+    p{
+        font-size: 20px;   
+    }
+    h2{
+        font-size: 25px;
+    }
+}
